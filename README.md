@@ -134,7 +134,7 @@ http://www.studywithanis.com
 | Name         | Email                  |
 | ------------ | ---------------------- |
 | Anisul Islam | Text is here           |
-| Anisul Islam | anisul2010@yahoo.co.uk |
+| Anisul Islam |shahahraiz.info@gmail.com |
 | Anisul Islam | Text is here           |
 
 <!-- all link is here -->
